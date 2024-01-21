@@ -11,7 +11,7 @@ with open('README.md', 'r', encoding='utf-8') as content:
     long_description_content = content.read()
 
 # configuration
-setup(name='classification',
+setup(name='clustering',
       version='0.0.1',
       author='AKA-SSH',
       author_email='aka.ssh.datascience@gmail.com',

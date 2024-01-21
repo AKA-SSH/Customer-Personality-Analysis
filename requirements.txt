@@ -1,0 +1,20 @@
+# data loading
+dill
+
+# notebook
+jupyter
+
+# data manipulation
+numpy
+pandas
+
+# data representation
+seaborn
+tabulate
+matplotlib
+
+# machine learning
+scikit-learn
+
+# editable installation in current directory
+-e .
